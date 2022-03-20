@@ -3,4 +3,5 @@ this file tomcat port is 8080
 this line is edited by using vi command on qa branch
 it is createdin ops branch
 tomcat role areadmin-gui anager-gui
+this line added in tomcat file by using master branch
 
