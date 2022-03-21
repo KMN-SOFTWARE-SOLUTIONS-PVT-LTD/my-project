@@ -6,3 +6,4 @@ it is createdin ops branch
 tomcat role areadmin-gui anager-gui
 this line added in tomcat file by using master branch
 bangalore is a green city
+then keys not working
